@@ -12,10 +12,10 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Bullet
+  - Platform
   - 
   - 
   - 
@@ -52,6 +52,9 @@ TagManager:
     locked: 0
   - name: Pickup
     uniqueID: 367399409
+    locked: 0
+  - name: Enemy
+    uniqueID: 2734129161
     locked: 0
   - name: Player
     uniqueID: 2823793599
